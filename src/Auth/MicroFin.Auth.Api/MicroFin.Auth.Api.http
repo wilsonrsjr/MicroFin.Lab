@@ -1,0 +1,6 @@
+@MicroFin.Auth.Api_HostAddress = http://localhost:5273
+
+GET {{MicroFin.Auth.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

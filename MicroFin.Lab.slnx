@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Auth/">
+    <Project Path="src/Auth/MicroFin.Auth.Api/MicroFin.Auth.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Customers/">
+    <Project Path="src/Customers/MicroFin.Customers.Api/MicroFin.Customers.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Transactions/">
+    <Project Path="src/Transactions/MicroFin.Transactions.Api/MicroFin.Transactions.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Auth.UnitTests/Auth.UnitTests.csproj" />
+    <Project Path="tests/Customers.UnitTests/Customers.UnitTests.csproj" />
+    <Project Path="tests/IntegrationTests/IntegrationTests.csproj" />
+    <Project Path="tests/Transactions.UnitTests/Transactions.UnitTests.csproj" />
+  </Folder>
+</Solution>
